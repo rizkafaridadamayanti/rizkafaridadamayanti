@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00B4D8&height=150&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8E7CFF,100:00B4D8&height=180&section=header&animation=fadeIn" width="100%"/>
 
-# Hi, I'm Rizka Farida Damayanti 👋
+<img src="https://github.com/rizkafaridadamayanti.png" width="120" style="border-radius:50%; margin-top:-90px; border: 4px solid #0d1117;"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;AI+%26+Data+Enthusiast;IoT+Enthusiast" alt="Typing SVG" />
+<h1 align="center">Hi, I'm Rizka Farida Damayanti 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;AI+%26+Data+Enthusiast;IoT+Enthusiast" alt="Typing SVG" />
+
+<br/>
 
 <p>
 <img src="https://img.shields.io/badge/Frontend%20Developer-6C63FF?style=flat-square" />
@@ -13,13 +17,17 @@
 <img src="https://img.shields.io/badge/IoT%20Enthusiast-4CAF50?style=flat-square" />
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rizkafarida.site.je-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rizkafarida.site.je/)
-[![GitHub followers](https://img.shields.io/github/followers/rizkafaridadamayanti?label=Follow&style=for-the-badge&logo=github)](https://github.com/rizkafaridadamayanti)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=rizkafaridadamayanti%2Frizkafaridadamayanti&label=Visitors&countColor=%236C63FF&style=for-the-badge)
+<p>
+<a href="https://rizkafarida.site.je/"><img src="https://img.shields.io/badge/🌐_Portfolio-rizkafarida.site.je-6C63FF?style=for-the-badge" /></a>
+<a href="https://github.com/rizkafaridadamayanti"><img src="https://img.shields.io/github/followers/rizkafaridadamayanti?label=Follow&style=for-the-badge&logo=github&color=181717" /></a>
+<img src="https://api.visitorbadge.io/api/visitors?path=rizkafaridadamayanti%2Frizkafaridadamayanti&label=Visitors&countColor=%236C63FF&style=for-the-badge" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00B4D8&height=3&section=header" width="60%"/>
 
 </div>
 
----
+<br/>
 
 ### 👩‍💻 Tentang Saya
 
