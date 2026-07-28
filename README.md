@@ -39,7 +39,18 @@
 
 <br/>
 
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=18&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;AI+%26+Data+Enthusiast;IoT+Enthusiast" alt="Typing SVG" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="100%" alt="Quote"/>
+</picture>
+
+</div>
 
 ---
 
