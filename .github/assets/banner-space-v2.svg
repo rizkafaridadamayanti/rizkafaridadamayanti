@@ -1,0 +1,170 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#03040F"/>
+      <stop offset="50%" stop-color="#0B0A2A"/>
+      <stop offset="100%" stop-color="#1A0F3D"/>
+    </linearGradient>
+
+    <radialGradient id="nebula1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7B2FF7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7B2FF7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebula2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00B4D8" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#00B4D8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebula3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF6B9D" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#FF6B9D" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="moonShade" cx="32%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#F7F2E7"/>
+      <stop offset="60%" stop-color="#C9BFA0"/>
+      <stop offset="100%" stop-color="#8B8270"/>
+    </radialGradient>
+
+    <radialGradient id="glowSoft" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="planetGiant" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFD9A0"/>
+      <stop offset="25%" stop-color="#F2A65A"/>
+      <stop offset="50%" stop-color="#D9784F"/>
+      <stop offset="75%" stop-color="#F2A65A"/>
+      <stop offset="100%" stop-color="#B85C3E"/>
+    </linearGradient>
+    <radialGradient id="planetShadow" cx="70%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+    </radialGradient>
+
+    <radialGradient id="planetTeal" cx="35%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#9DF3E4"/>
+      <stop offset="55%" stop-color="#2FB6A3"/>
+      <stop offset="100%" stop-color="#146157"/>
+    </radialGradient>
+    <radialGradient id="planetPurple" cx="35%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#C9B8FF"/>
+      <stop offset="55%" stop-color="#7C5CFF"/>
+      <stop offset="100%" stop-color="#3A2494"/>
+    </radialGradient>
+
+    <filter id="blurSoft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="blurStar" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2.2"/>
+    </filter>
+
+    <clipPath id="banner-clip">
+      <rect x="0" y="0" width="1200" height="220"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#banner-clip)">
+    <rect x="0" y="0" width="1200" height="220" fill="url(#bg)"/>
+
+    <!-- kabut nebula -->
+    <g filter="url(#blurSoft)">
+      <circle cx="260" cy="60" r="140" fill="url(#nebula1)"/>
+      <circle cx="780" cy="140" r="170" fill="url(#nebula2)"/>
+      <circle cx="980" cy="30" r="120" fill="url(#nebula3)"/>
+      <circle cx="60" cy="180" r="110" fill="url(#nebula2)"/>
+    </g>
+
+    <!-- lapisan bintang jauh, kecil dan redup -->
+    <g fill="#ffffff">
+      <circle cx="20" cy="15" r="0.8" opacity="0.5"/>
+      <circle cx="55" cy="45" r="0.7" opacity="0.4"/>
+      <circle cx="95" cy="20" r="0.9" opacity="0.55"/>
+      <circle cx="140" cy="55" r="0.6" opacity="0.4"/>
+      <circle cx="190" cy="12" r="0.8" opacity="0.5"/>
+      <circle cx="230" cy="90" r="0.7" opacity="0.4"/>
+      <circle cx="280" cy="25" r="0.9" opacity="0.55"/>
+      <circle cx="320" cy="70" r="0.6" opacity="0.4"/>
+      <circle cx="370" cy="15" r="0.8" opacity="0.5"/>
+      <circle cx="420" cy="100" r="0.7" opacity="0.4"/>
+      <circle cx="460" cy="35" r="0.9" opacity="0.55"/>
+      <circle cx="510" cy="150" r="0.6" opacity="0.4"/>
+      <circle cx="560" cy="20" r="0.8" opacity="0.5"/>
+      <circle cx="610" cy="80" r="0.7" opacity="0.4"/>
+      <circle cx="650" cy="130" r="0.9" opacity="0.5"/>
+      <circle cx="700" cy="30" r="0.6" opacity="0.4"/>
+      <circle cx="760" cy="170" r="0.8" opacity="0.5"/>
+      <circle cx="820" cy="60" r="0.7" opacity="0.4"/>
+      <circle cx="900" cy="100" r="0.9" opacity="0.55"/>
+      <circle cx="960" cy="180" r="0.6" opacity="0.4"/>
+      <circle cx="1020" cy="50" r="0.8" opacity="0.5"/>
+      <circle cx="1080" cy="20" r="0.7" opacity="0.4"/>
+      <circle cx="1140" cy="90" r="0.9" opacity="0.55"/>
+      <circle cx="1170" cy="150" r="0.6" opacity="0.4"/>
+    </g>
+
+    <!-- lapisan bintang dekat, lebih terang dengan glow -->
+    <g>
+      <circle cx="150" cy="30" r="5" fill="url(#glowSoft)" filter="url(#blurStar)"/>
+      <circle cx="150" cy="30" r="1.4" fill="#ffffff"/>
+      <circle cx="530" cy="100" r="4" fill="url(#glowSoft)" filter="url(#blurStar)"/>
+      <circle cx="530" cy="100" r="1.2" fill="#ffffff"/>
+      <circle cx="740" cy="45" r="5" fill="url(#glowSoft)" filter="url(#blurStar)"/>
+      <circle cx="740" cy="45" r="1.4" fill="#ffffff"/>
+      <circle cx="360" cy="150" r="4" fill="url(#glowSoft)" filter="url(#blurStar)"/>
+      <circle cx="360" cy="150" r="1.2" fill="#ffffff"/>
+      <circle cx="1000" cy="70" r="4.5" fill="url(#glowSoft)" filter="url(#blurStar)"/>
+      <circle cx="1000" cy="70" r="1.3" fill="#ffffff"/>
+    </g>
+
+    <!-- bintang jatuh -->
+    <path d="M50,170 L150,95" stroke="#ffffff" stroke-width="1.4" stroke-linecap="round" opacity="0.55"/>
+    <circle cx="50" cy="170" r="2.2" fill="url(#glowSoft)" filter="url(#blurStar)"/>
+
+    <!-- bulan, bertekstur kawah -->
+    <g transform="translate(300,58)">
+      <circle cx="0" cy="0" r="46" fill="url(#glowSoft)" opacity="0.4" filter="url(#blurStar)"/>
+      <circle cx="0" cy="0" r="34" fill="url(#moonShade)"/>
+      <circle cx="-12" cy="-9" r="6.5" fill="#A79C82" opacity="0.55"/>
+      <circle cx="9" cy="7" r="4.5" fill="#A79C82" opacity="0.5"/>
+      <circle cx="5" cy="-15" r="3" fill="#A79C82" opacity="0.5"/>
+      <circle cx="-6" cy="14" r="2.6" fill="#A79C82" opacity="0.45"/>
+    </g>
+
+    <!-- planet raksasa bergaris (gas giant), realistis dengan shading -->
+    <g transform="translate(620,115)">
+      <ellipse cx="0" cy="0" rx="52" ry="15" fill="none" stroke="#E8C99B" stroke-width="4" opacity="0.5" transform="rotate(-16)"/>
+      <clipPath id="giantClip"><circle cx="0" cy="0" r="34"/></clipPath>
+      <g clip-path="url(#giantClip)">
+        <circle cx="0" cy="0" r="34" fill="url(#planetGiant)"/>
+        <rect x="-34" y="-22" width="68" height="6" fill="#B85C3E" opacity="0.35"/>
+        <rect x="-34" y="-6" width="68" height="9" fill="#8C3F2A" opacity="0.3"/>
+        <rect x="-34" y="10" width="68" height="5" fill="#B85C3E" opacity="0.3"/>
+        <circle cx="0" cy="0" r="34" fill="url(#planetShadow)"/>
+      </g>
+      <ellipse cx="0" cy="0" rx="52" ry="15" fill="none" stroke="#E8C99B" stroke-width="2.5" opacity="0.75" transform="rotate(-16)"/>
+    </g>
+
+    <!-- planet teal kecil -->
+    <g transform="translate(880,52)">
+      <circle cx="0" cy="0" r="19" fill="url(#planetTeal)"/>
+      <circle cx="19" cy="0" r="19" fill="url(#planetShadow)" opacity="0.5"/>
+    </g>
+
+    <!-- planet ungu kecil -->
+    <g transform="translate(150,175)">
+      <circle cx="0" cy="0" r="15" fill="url(#planetPurple)"/>
+      <circle cx="15" cy="0" r="15" fill="url(#planetShadow)" opacity="0.4"/>
+    </g>
+
+    <!-- planet besar redup di kanan jauh -->
+    <g transform="translate(1090,150)" opacity="0.92">
+      <circle cx="0" cy="0" r="58" fill="url(#planetPurple)"/>
+      <circle cx="58" cy="0" r="58" fill="url(#planetShadow)"/>
+      <circle cx="-20" cy="-18" r="14" fill="#ffffff" opacity="0.1"/>
+    </g>
+  </g>
+
+  <path d="M0,188 C300,215 900,160 1200,198 L1200,220 L0,220 Z" fill="#03040F" opacity="0.7"/>
+</svg>

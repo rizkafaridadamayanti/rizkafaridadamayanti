@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rizkafaridadamayanti/rizkafaridadamayanti/main/.github/assets/banner-space.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/rizkafaridadamayanti/rizkafaridadamayanti/main/.github/assets/banner-space-v2.svg" width="100%"/>
 
 <table>
 <tr>
@@ -9,12 +9,14 @@
 **Selamat datang di GitHub Universe saya** 🌌
 
 - 💻 Frontend Developer yang membangun antarmuka rapi & fungsional
+- 🌐 Full Stack Enthusiast, senang menjelajahi sisi backend juga
 - 🤖 Sedang mendalami AI, Analisis Data, dan IoT
 - 🛠️ Kerja sehari-hari dengan Vue dan Laravel
 - 🎨 Mengasah kemampuan desain melalui Figma
 - 🤝 Terbuka untuk kolaborasi proyek
 
 <img src="https://img.shields.io/badge/Frontend%20Developer-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Enthusiast-FF9F1C?style=flat-square" />
 <img src="https://img.shields.io/badge/AI%20Enthusiast-FF6584?style=flat-square" />
 <img src="https://img.shields.io/badge/Data%20Analyst%20Enthusiast-00B4D8?style=flat-square" />
 <img src="https://img.shields.io/badge/IoT%20Enthusiast-4CAF50?style=flat-square" />
@@ -53,23 +55,18 @@
 
 ### 📊 Statistik & Aktivitas
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rizkafaridadamayanti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkafaridadamayanti&theme=tokyo-night&hide_border=true&area=true&height=195" width="100%"/>
-
-</td>
-</tr>
-</table>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rizkafaridadamayanti&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="700"/>
+
+<img src="https://github-stats-extended.vercel.app/api?username=rizkafaridadamayanti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkafaridadamayanti&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=rizkafaridadamayanti&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+
 </div>
 
 ---
@@ -77,9 +74,10 @@
 ### 🥧 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkafaridadamayanti&layout=donut&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkafaridadamayanti&layout=donut-vertical&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rizkafaridadamayanti&layout=donut&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
+
+<sub align="center">Diurutkan berdasarkan bahasa yang paling banyak dipakai di seluruh repository publik.</sub>
 
 ---
 
