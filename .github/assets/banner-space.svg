@@ -1,0 +1,102 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0620"/>
+      <stop offset="55%" stop-color="#241249"/>
+      <stop offset="100%" stop-color="#3D1E6D"/>
+    </linearGradient>
+    <radialGradient id="moonShade" cx="35%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#FDF6E3"/>
+      <stop offset="100%" stop-color="#D8CBA0"/>
+    </radialGradient>
+    <radialGradient id="planet1" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#FF9A76"/>
+      <stop offset="100%" stop-color="#D9534F"/>
+    </radialGradient>
+    <radialGradient id="planet2" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#7EE8CF"/>
+      <stop offset="100%" stop-color="#2F9E8F"/>
+    </radialGradient>
+    <radialGradient id="planet3" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#B39CFF"/>
+      <stop offset="100%" stop-color="#6C63FF"/>
+    </radialGradient>
+    <clipPath id="banner-clip">
+      <rect x="0" y="0" width="1200" height="220"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#banner-clip)">
+    <rect x="0" y="0" width="1200" height="220" fill="url(#bg)"/>
+
+    <!-- bintang -->
+    <g fill="#ffffff">
+      <circle cx="40" cy="30" r="1.6" opacity="0.9"/>
+      <circle cx="90" cy="70" r="1.1" opacity="0.6"/>
+      <circle cx="150" cy="25" r="1.8" opacity="0.85"/>
+      <circle cx="210" cy="90" r="1.2" opacity="0.5"/>
+      <circle cx="270" cy="40" r="1.5" opacity="0.8"/>
+      <circle cx="330" cy="110" r="1.1" opacity="0.55"/>
+      <circle cx="390" cy="20" r="1.7" opacity="0.9"/>
+      <circle cx="470" cy="80" r="1.2" opacity="0.6"/>
+      <circle cx="540" cy="35" r="1.6" opacity="0.85"/>
+      <circle cx="610" cy="150" r="1.3" opacity="0.5"/>
+      <circle cx="660" cy="60" r="1.4" opacity="0.7"/>
+      <circle cx="700" cy="180" r="1.2" opacity="0.55"/>
+      <circle cx="760" cy="45" r="1.8" opacity="0.9"/>
+      <circle cx="820" cy="120" r="1.1" opacity="0.5"/>
+      <circle cx="120" cy="160" r="1.3" opacity="0.6"/>
+      <circle cx="30" cy="130" r="1.2" opacity="0.5"/>
+      <circle cx="250" cy="170" r="1.4" opacity="0.7"/>
+      <circle cx="440" cy="150" r="1.1" opacity="0.55"/>
+    </g>
+
+    <!-- bintang bersinar (bentuk plus kecil) -->
+    <g stroke="#ffffff" stroke-width="1" stroke-linecap="round">
+      <path d="M180,55 L180,65 M175,60 L185,60" opacity="0.8"/>
+      <path d="M520,95 L520,105 M515,100 L525,100" opacity="0.7"/>
+      <path d="M355,145 L355,155 M350,150 L360,150" opacity="0.7"/>
+      <path d="M735,90 L735,100 M730,95 L740,95" opacity="0.8"/>
+    </g>
+
+    <!-- bintang jatuh -->
+    <path d="M60,180 L140,120" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+    <circle cx="60" cy="180" r="2" fill="#ffffff" opacity="0.8"/>
+
+    <!-- bulan -->
+    <g transform="translate(340,60)">
+      <circle cx="0" cy="0" r="34" fill="url(#moonShade)"/>
+      <circle cx="-10" cy="-8" r="6" fill="#D8CBA0" opacity="0.6"/>
+      <circle cx="8" cy="6" r="4" fill="#D8CBA0" opacity="0.5"/>
+      <circle cx="4" cy="-14" r="3" fill="#D8CBA0" opacity="0.5"/>
+    </g>
+
+    <!-- planet 1, dengan cincin -->
+    <g transform="translate(600,110)">
+      <ellipse cx="0" cy="0" rx="46" ry="14" fill="none" stroke="#F2C879" stroke-width="4" opacity="0.85" transform="rotate(-18)"/>
+      <circle cx="0" cy="0" r="30" fill="url(#planet1)"/>
+      <ellipse cx="0" cy="0" rx="46" ry="14" fill="none" stroke="#F2C879" stroke-width="3" opacity="0.5" transform="rotate(-18)" clip-path="none"/>
+    </g>
+
+    <!-- planet 2, kecil -->
+    <g transform="translate(880,55)">
+      <circle cx="0" cy="0" r="20" fill="url(#planet2)"/>
+      <circle cx="-6" cy="-6" r="5" fill="#ffffff" opacity="0.25"/>
+    </g>
+
+    <!-- planet 3, kecil di kiri bawah -->
+    <g transform="translate(150,175)">
+      <circle cx="0" cy="0" r="16" fill="url(#planet3)"/>
+      <circle cx="-4" cy="-4" r="4" fill="#ffffff" opacity="0.3"/>
+    </g>
+
+    <!-- planet besar di kanan jauh -->
+    <g transform="translate(1080,140)">
+      <circle cx="0" cy="0" r="55" fill="url(#planet3)" opacity="0.9"/>
+      <circle cx="-18" cy="-15" r="12" fill="#ffffff" opacity="0.12"/>
+      <circle cx="10" cy="20" r="8" fill="#241249" opacity="0.2"/>
+    </g>
+  </g>
+
+  <path d="M0,185 C300,215 900,155 1200,195 L1200,220 L0,220 Z" fill="#0d1117" opacity="0.6"/>
+</svg>

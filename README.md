@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rizkafaridadamayanti/rizkafaridadamayanti/main/.github/assets/banner-cow.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/rizkafaridadamayanti/rizkafaridadamayanti/main/.github/assets/banner-space.svg" width="100%"/>
 
 <img src="https://github.com/rizkafaridadamayanti.png" width="120" style="border-radius:50%; margin-top:-90px; border: 4px solid #0d1117;"/>
 
@@ -140,12 +140,12 @@ https://github-profile-trophy.vercel.app/?username=rizkafaridadamayanti&theme=to
 
 ---
 
-### 🐮 Bonus: Karena Semua Profil Butuh Sapi Lucu
+### 🚀 Bonus: Sedikit Suasana Luar Angkasa
 
 <div align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXljYmJpMnltYnd4bXR3djM5ZzdtanoyYWo1OGZkeGlsdnJ2NDFkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12XgHBztYcdsTer1LE/giphy.gif" width="180"/>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXljYmJpMnltYnd4bXR3djM5ZzdtanoyYWo1OGZkeGlsdnJ2NDFkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RHr8AMKHPBHR7gp9wE/giphy.gif" width="180"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdqOWZnbmRzdnA4eGJ0ZDRuOXdhMG9lZmthOXlpdGFrNmlhdmI4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT8qBhrlNooHBYR9f2/200.gif" width="180"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdqOWZnbmRzdnA4eGJ0ZDRuOXdhMG9lZmthOXlpdGFrNmlhdmI4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RjZM6XvmRBZ30xbcWy/giphy.gif" width="180"/>
 
 </div>
 
