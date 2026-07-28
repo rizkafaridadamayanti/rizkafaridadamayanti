@@ -77,6 +77,26 @@ Saya adalah seorang **Frontend Developer** yang memiliki ketertarikan mendalam t
 
 ---
 
+### 🎖️ Pencapaian GitHub (Achievements)
+
+<div align="center">
+
+[![GitHub Achievements](https://img.shields.io/badge/Lihat%20Achievements%20Asli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rizkafaridadamayanti?tab=achievements)
+
+<sub>Lencana resmi dari GitHub (Pull Shark, Quickdraw, dll) — otomatis muncul begitu benar-benar diraih.</sub>
+
+</div>
+
+---
+
+### 📈 Analisis Aktivitas
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkafaridadamayanti&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
 ### 🏆 Pencapaian GitHub
 
 <div align="center">
@@ -111,6 +131,17 @@ https://github-profile-trophy.vercel.app/?username=rizkafaridadamayanti&theme=to
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizkafaridadamayanti/rizkafaridadamayanti/output/github-contribution-grid-snake-dark.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/rizkafaridadamayanti/rizkafaridadamayanti/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
+
+</div>
+
+---
+
+### 🐮 Bonus: Karena Semua Profil Butuh Sapi Lucu
+
+<div align="center">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXljYmJpMnltYnd4bXR3djM5ZzdtanoyYWo1OGZkeGlsdnJ2NDFkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12XgHBztYcdsTer1LE/giphy.gif" width="180"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXljYmJpMnltYnd4bXR3djM5ZzdtanoyYWo1OGZkeGlsdnJ2NDFkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RHr8AMKHPBHR7gp9wE/giphy.gif" width="180"/>
 
 </div>
 
