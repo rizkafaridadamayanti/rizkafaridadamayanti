@@ -1,0 +1,51 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2E7D32"/>
+      <stop offset="50%" stop-color="#4CAF50"/>
+      <stop offset="100%" stop-color="#8BC34A"/>
+    </linearGradient>
+    <clipPath id="banner-clip">
+      <rect x="0" y="0" width="1200" height="220" rx="0"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#banner-clip)">
+    <rect x="0" y="0" width="1200" height="220" fill="url(#bg)"/>
+
+    <!-- pola bercak sapi (cow print), disamarkan halus -->
+    <g fill="#ffffff" opacity="0.22">
+      <path d="M60,20 C90,5 130,15 140,45 C150,75 120,95 90,90 C60,85 40,55 60,20 Z"/>
+      <path d="M240,140 C270,120 315,130 320,165 C325,195 290,210 260,200 C230,190 215,165 240,140 Z"/>
+      <path d="M420,10 C450,-5 480,15 475,45 C470,70 440,80 415,65 C395,53 400,25 420,10 Z"/>
+      <path d="M600,150 C630,130 670,145 670,175 C670,200 635,215 605,200 C580,188 575,165 600,150 Z"/>
+      <path d="M760,30 C795,15 835,30 830,60 C825,88 790,100 760,85 C735,73 738,45 760,30 Z"/>
+      <path d="M940,130 C975,110 1015,125 1012,160 C1010,190 972,202 942,188 C918,176 918,148 940,130 Z"/>
+      <path d="M1080,20 C1105,5 1140,18 1135,48 C1130,72 1100,82 1078,68 C1060,56 1062,32 1080,20 Z"/>
+      <path d="M150,160 C175,148 205,160 200,185 C196,205 168,212 148,198 C132,187 132,170 150,160 Z"/>
+      <path d="M340,50 C360,40 385,50 380,70 C376,86 352,92 336,80 C324,71 325,57 340,50 Z"/>
+      <path d="M520,180 C545,168 575,180 570,202 C566,220 538,222 518,210 C502,200 503,188 520,180 Z"/>
+      <path d="M860,175 C885,163 915,175 910,197 C906,215 878,220 858,208 C842,198 843,183 860,175 Z"/>
+      <path d="M1020,30 C1045,18 1075,30 1070,52 C1066,70 1038,75 1018,63 C1002,53 1003,38 1020,30 Z"/>
+    </g>
+
+    <!-- siluet wajah sapi kecil, flat & original, di sisi kanan -->
+    <g transform="translate(1060,55)" opacity="0.9">
+      <ellipse cx="55" cy="55" rx="52" ry="46" fill="#ffffff"/>
+      <ellipse cx="14" cy="18" rx="16" ry="20" fill="#ffffff" transform="rotate(-25 14 18)"/>
+      <ellipse cx="96" cy="18" rx="16" ry="20" fill="#ffffff" transform="rotate(25 96 18)"/>
+      <ellipse cx="14" cy="18" rx="8" ry="11" fill="#f4c9b8" transform="rotate(-25 14 18)"/>
+      <ellipse cx="96" cy="18" rx="8" ry="11" fill="#f4c9b8" transform="rotate(25 96 18)"/>
+      <path d="M15,15 C35,0 75,0 95,15 C90,30 70,25 55,25 C40,25 20,30 15,15 Z" fill="#2b2640"/>
+      <ellipse cx="30" cy="60" rx="12" ry="9" fill="#2b2640" opacity="0.85"/>
+      <ellipse cx="80" cy="45" rx="8" ry="7" fill="#2b2640" opacity="0.85"/>
+      <ellipse cx="55" cy="70" rx="24" ry="18" fill="#fce9df"/>
+      <circle cx="46" cy="70" r="2.5" fill="#5b4a44"/>
+      <circle cx="64" cy="70" r="2.5" fill="#5b4a44"/>
+      <circle cx="40" cy="50" r="4" fill="#2b2640"/>
+      <circle cx="70" cy="50" r="4" fill="#2b2640"/>
+    </g>
+  </g>
+
+  <path d="M0,180 C300,220 900,140 1200,190 L1200,220 L0,220 Z" fill="#0d1117" opacity="0.55"/>
+</svg>
