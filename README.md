@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00B4D8&height=220&section=header&text=Rizka%20Farida%20Damayanti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20%26%20Data%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00B4D8&height=150&section=header" width="100%"/>
+
+# Hi, I'm Rizka Farida Damayanti 👋
+
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;AI+%26+Data+Enthusiast;IoT+Enthusiast" alt="Typing SVG" />
 
 <p>
 <img src="https://img.shields.io/badge/Frontend%20Developer-6C63FF?style=flat-square" />
@@ -23,7 +27,10 @@ Saya adalah seorang **Frontend Developer** yang memiliki ketertarikan mendalam t
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="100%" alt="Quote"/>
+</picture>
 
 </div>
 
@@ -73,8 +80,13 @@ Saya adalah seorang **Frontend Developer** yang memiliki ketertarikan mendalam t
 ### 🏆 Pencapaian GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rizkafaridadamayanti&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rizkafaridadamayanti&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
+
+<!-- Jika gambar di atas tetap tidak muncul, ganti src dengan salah satu mirror berikut:
+https://github-profile-trophy-winning.vercel.app/?username=rizkafaridadamayanti&theme=tokyonight&no-frame=true&row=1&column=6
+https://github-profile-trophy.vercel.app/?username=rizkafaridadamayanti&theme=tokyonight&no-frame=true&row=1&column=6
+-->
 
 ---
 
