@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8E7CFF,100:00B4D8&height=180&section=header&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/rizkafaridadamayanti/rizkafaridadamayanti/main/.github/assets/banner-cow.svg" width="100%"/>
 
 <img src="https://github.com/rizkafaridadamayanti.png" width="120" style="border-radius:50%; margin-top:-90px; border: 4px solid #0d1117;"/>
 
