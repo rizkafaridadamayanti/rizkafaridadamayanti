@@ -77,7 +77,7 @@ Saya adalah seorang **Frontend Developer** yang memiliki ketertarikan mendalam t
 
 ---
 
-### 🎖️ Pencapaian GitHub (Achievements)
+### 🎖️ Pencapaian GitHub
 
 <div align="center">
 
@@ -85,7 +85,16 @@ Saya adalah seorang **Frontend Developer** yang memiliki ketertarikan mendalam t
 
 <sub>Lencana resmi dari GitHub (Pull Shark, Quickdraw, dll) — otomatis muncul begitu benar-benar diraih.</sub>
 
+<br/><br/>
+
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rizkafaridadamayanti&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
 </div>
+
+<!-- Jika gambar trophy di atas tidak muncul, ganti src dengan salah satu mirror berikut:
+https://github-profile-trophy-winning.vercel.app/?username=rizkafaridadamayanti&theme=tokyonight&no-frame=true&row=1&column=6
+https://github-profile-trophy.vercel.app/?username=rizkafaridadamayanti&theme=tokyonight&no-frame=true&row=1&column=6
+-->
 
 ---
 
@@ -94,19 +103,6 @@ Saya adalah seorang **Frontend Developer** yang memiliki ketertarikan mendalam t
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkafaridadamayanti&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
-
----
-
-### 🏆 Pencapaian GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rizkafaridadamayanti&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
-
-<!-- Jika gambar di atas tetap tidak muncul, ganti src dengan salah satu mirror berikut:
-https://github-profile-trophy-winning.vercel.app/?username=rizkafaridadamayanti&theme=tokyonight&no-frame=true&row=1&column=6
-https://github-profile-trophy.vercel.app/?username=rizkafaridadamayanti&theme=tokyonight&no-frame=true&row=1&column=6
--->
 
 ---
 
