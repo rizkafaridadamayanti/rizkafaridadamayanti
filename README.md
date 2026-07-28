@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=26&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rizka+Farida+Damayanti;Frontend+Developer;AI+%26+Data+Enthusiast" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00B4D8&height=220&section=header&text=Rizka%20Farida%20Damayanti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20%26%20Data%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <p>
 <img src="https://img.shields.io/badge/Frontend%20Developer-6C63FF?style=flat-square" />
@@ -21,19 +21,19 @@
 
 Saya adalah seorang **Frontend Developer** yang memiliki ketertarikan mendalam terhadap **Kecerdasan Buatan (AI)**, **Analisis Data**, dan **Internet of Things (IoT)**. Fokus utama saya adalah membangun antarmuka pengguna yang fungsional, rapi, dan mudah digunakan, sambil terus memperdalam pemahaman di bidang teknologi lain yang saling berkaitan. Saat ini saya banyak bekerja menggunakan **Vue** dan **Laravel**, serta mengasah kemampuan desain antarmuka melalui **Figma**.
 
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+
+</div>
+
 ---
 
 ### 🛠️ Keahlian Teknis
 
 <div align="center">
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=vue,laravel,js,python,php,mysql,figma&theme=dark" />
 
 </div>
 
@@ -86,7 +86,20 @@ Saya adalah seorang **Frontend Developer** yang memiliki ketertarikan mendalam t
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rizkafaridadamayanti&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" width="700"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rizkafaridadamayanti&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="700"/>
+</div>
+
+---
+
+### 🐍 Aktivitas Kontribusi
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizkafaridadamayanti/rizkafaridadamayanti/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/rizkafaridadamayanti/rizkafaridadamayanti/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
 </div>
 
 ---
@@ -101,3 +114,5 @@ Saya adalah seorang **Frontend Developer** yang memiliki ketertarikan mendalam t
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:6C63FF&height=100&section=footer" width="100%"/>
