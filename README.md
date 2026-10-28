@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://rizkafarida.site.je/"><img src="./assets/hero.svg" width="100%" alt="Rizka Farida - Frontend Developer"/></a>
+<a href="https://rizkafarida.site.je/"><img src="./hero.svg" width="100%" alt="Rizka Farida - Frontend Developer"/></a>
 
 <br/>
 
@@ -12,19 +12,19 @@
 
 <br/><br/>
 
-<img src="./assets/sec-profile.svg" width="100%" alt="Stage 01 - Player Profile"/>
+<img src="./sec-profile.svg" width="100%" alt="Stage 01 - Player Profile"/>
 
-<img src="./assets/player.svg" width="100%" alt="Kartu pemain: Rizka Farida, Frontend Developer, Mahasiswa"/>
+<img src="./player.svg" width="100%" alt="Kartu pemain: Rizka Farida, Frontend Developer, Mahasiswa"/>
 
 <br/><br/>
 
-<img src="./assets/sec-skills.svg" width="100%" alt="Stage 02 - Skill Tree"/>
+<img src="./sec-skills.svg" width="100%" alt="Stage 02 - Skill Tree"/>
 
-<img src="./assets/xp.svg" width="100%" alt="Persentase bahasa: Vue, JavaScript, TypeScript, Blade, CSS"/>
+<img src="./xp.svg" width="100%" alt="Persentase bahasa: Vue, JavaScript, TypeScript, Blade, CSS"/>
 
 <br/>
 
-<img src="./assets/tree.svg" width="100%" alt="Skill tree: Frontend, Backend, Design & Tools, Sedang Dipelajari"/>
+<img src="./tree.svg" width="100%" alt="Skill tree: Frontend, Backend, Design & Tools, Sedang Dipelajari"/>
 
 <br/>
 
@@ -32,26 +32,26 @@
 
 <br/><br/>
 
-<img src="./assets/sec-quests.svg" width="100%" alt="Stage 03 - Quest Log"/>
+<img src="./sec-quests.svg" width="100%" alt="Stage 03 - Quest Log"/>
 
-<a href="https://github.com/rizkafaridadamayanti/finstart"><img src="./assets/quest-finstart.svg" width="32%" alt="FinStart"/></a>
-<a href="https://github.com/rizkafaridadamayanti/nusastay-frontend"><img src="./assets/quest-nusastay.svg" width="32%" alt="NusaStay"/></a>
-<a href="https://github.com/rizkafaridadamayanti/wanacafe"><img src="./assets/quest-wanacafe.svg" width="32%" alt="WanaCafe"/></a>
+<a href="https://github.com/rizkafaridadamayanti/finstart"><img src="./quest-finstart.svg" width="32%" alt="FinStart"/></a>
+<a href="https://github.com/rizkafaridadamayanti/nusastay-frontend"><img src="./quest-nusastay.svg" width="32%" alt="NusaStay"/></a>
+<a href="https://github.com/rizkafaridadamayanti/wanacafe"><img src="./quest-wanacafe.svg" width="32%" alt="WanaCafe"/></a>
 
 <br/>
 
-<a href="https://github.com/rizkafaridadamayanti/poc-asa"><img src="./assets/side-poc-asa.svg" width="49%" alt="poc-asa"/></a>
-<a href="https://github.com/rizkafaridadamayanti/produktif-ku"><img src="./assets/side-produktif-ku.svg" width="49%" alt="produktif-ku"/></a>
+<a href="https://github.com/rizkafaridadamayanti/poc-asa"><img src="./side-poc-asa.svg" width="49%" alt="poc-asa"/></a>
+<a href="https://github.com/rizkafaridadamayanti/produktif-ku"><img src="./side-produktif-ku.svg" width="49%" alt="produktif-ku"/></a>
 
 <br/><br/>
 
-<img src="./assets/sec-achievements.svg" width="100%" alt="Stage 04 - Achievements"/>
+<img src="./sec-achievements.svg" width="100%" alt="Stage 04 - Achievements"/>
 
-<a href="https://github.com/rizkafaridadamayanti?tab=achievements"><img src="./assets/achievements.svg" width="100%" alt="Achievement log: Pull Shark terbuka"/></a>
+<a href="https://github.com/rizkafaridadamayanti?tab=achievements"><img src="./achievements.svg" width="100%" alt="Achievement log: Pull Shark terbuka"/></a>
 
 <br/><br/>
 
-<img src="./assets/sec-stats.svg" width="100%" alt="Stage 05 - Live Stats"/>
+<img src="./sec-stats.svg" width="100%" alt="Stage 05 - Live Stats"/>
 
 <img align="top" src="https://github-stats-extended.vercel.app/api?username=rizkafaridadamayanti&show_icons=true&count_private=true&hide_rank=true&hide=stars,contribs&bg_color=0A0F1F&title_color=22D3EE&icon_color=FBBF24&text_color=C9D1D9&border_color=26335C&card_width=420" width="49%"/>
 <img align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rizkafaridadamayanti&layout=donut&bg_color=0A0F1F&title_color=22D3EE&text_color=C9D1D9&border_color=26335C&card_width=420" width="49%"/>
@@ -62,13 +62,13 @@
 
 <br/><br/>
 
-<img src="./assets/sec-games.svg" width="100%" alt="Stage 06 - Mini Games"/>
+<img src="./sec-games.svg" width="100%" alt="Stage 06 - Mini Games"/>
 
-<img src="./assets/game-runner.svg" width="100%" alt="Game Tech Runner"/>
+<img src="./game-runner.svg" width="100%" alt="Game Tech Runner"/>
 
 <br/>
 
-<img src="./assets/game-invaders.svg" width="100%" alt="Game Space Dev"/>
+<img src="./game-invaders.svg" width="100%" alt="Game Space Dev"/>
 
 <br/>
 
@@ -77,9 +77,9 @@
 
 <br/><br/>
 
-<img src="./assets/sec-contact.svg" width="100%" alt="Stage 07 - Continue?"/>
+<img src="./sec-contact.svg" width="100%" alt="Stage 07 - Continue?"/>
 
-<a href="https://rizkafarida.site.je/"><img src="./assets/contact.svg" width="100%" alt="Mari berkolaborasi"/></a>
+<a href="https://rizkafarida.site.je/"><img src="./contact.svg" width="100%" alt="Mari berkolaborasi"/></a>
 
 <br/>
 
