@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="175" viewBox="0 0 900 175">
+<style>
+text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+.fade{opacity:0;animation:fade .8s ease-out forwards}
+@keyframes fade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.ring{transform-box:fill-box;transform-origin:center;animation:rg 2.6s ease-out infinite}
+@keyframes rg{0%{transform:scale(1);opacity:.7}100%{transform:scale(1.7);opacity:0}}
+</style><g class="fade" style="animation-delay:0.00s">
+<rect x="1.0" y="11" width="203" height="150" rx="16" fill="#fff" stroke="#6C63FF" stroke-opacity=".35"/>
+<circle class="ring" cx="42.0" cy="52" r="20" fill="none" stroke="#6C63FF" stroke-width="2" style="animation-delay:0.0s"/>
+<circle cx="42.0" cy="52" r="20" fill="#6C63FF" fill-opacity=".12"/>
+<text x="42.0" y="57" text-anchor="middle" font-size="13" font-weight="800" fill="#6C63FF">&lt;/&gt;</text>
+<text x="72.0" y="57" font-size="14" font-weight="800" letter-spacing="1" fill="#6C63FF">FRONTEND</text>
+<text x="20.0" y="100" font-size="12" fill="#475569">UI responsif dan komponen</text><text x="20.0" y="117" font-size="12" fill="#475569">reusable dengan Vue untuk</text><text x="20.0" y="134" font-size="12" fill="#475569">UX yang mulus.</text>
+<rect x="20.0" y="148" width="20" height="4" rx="2" fill="#6C63FF"><animate attributeName="width" values="20;165;20" dur="5s" begin="0.0s" repeatCount="indefinite"/></rect>
+</g><g class="fade" style="animation-delay:0.15s">
+<rect x="232.7" y="11" width="203" height="150" rx="16" fill="#fff" stroke="#F08C00" stroke-opacity=".35"/>
+<circle class="ring" cx="273.7" cy="52" r="20" fill="none" stroke="#F08C00" stroke-width="2" style="animation-delay:0.4s"/>
+<circle cx="273.7" cy="52" r="20" fill="#F08C00" fill-opacity=".12"/>
+<text x="273.7" y="57" text-anchor="middle" font-size="13" font-weight="800" fill="#F08C00">API</text>
+<text x="303.7" y="57" font-size="14" font-weight="800" letter-spacing="1" fill="#F08C00">BACKEND</text>
+<text x="251.7" y="100" font-size="12" fill="#475569">REST API dan sistem</text><text x="251.7" y="117" font-size="12" fill="#475569">berbasis data dengan</text><text x="251.7" y="134" font-size="12" fill="#475569">Laravel dan Express.</text>
+<rect x="251.7" y="148" width="20" height="4" rx="2" fill="#F08C00"><animate attributeName="width" values="20;165;20" dur="5s" begin="0.5s" repeatCount="indefinite"/></rect>
+</g><g class="fade" style="animation-delay:0.30s">
+<rect x="464.3" y="11" width="203" height="150" rx="16" fill="#fff" stroke="#FF6584" stroke-opacity=".35"/>
+<circle class="ring" cx="505.3" cy="52" r="20" fill="none" stroke="#FF6584" stroke-width="2" style="animation-delay:0.8s"/>
+<circle cx="505.3" cy="52" r="20" fill="#FF6584" fill-opacity=".12"/>
+<text x="505.3" y="57" text-anchor="middle" font-size="13" font-weight="800" fill="#FF6584">AI</text>
+<text x="535.3" y="57" font-size="14" font-weight="800" letter-spacing="1" fill="#FF6584">AI &amp; DATA</text>
+<text x="483.3" y="100" font-size="12" fill="#475569">Mengolah data menjadi</text><text x="483.3" y="117" font-size="12" fill="#475569">insight dan mengeksplorasi</text><text x="483.3" y="134" font-size="12" fill="#475569">pemanfaatan AI.</text>
+<rect x="483.3" y="148" width="20" height="4" rx="2" fill="#FF6584"><animate attributeName="width" values="20;165;20" dur="5s" begin="1.0s" repeatCount="indefinite"/></rect>
+</g><g class="fade" style="animation-delay:0.45s">
+<rect x="696.0" y="11" width="203" height="150" rx="16" fill="#fff" stroke="#2EAD4B" stroke-opacity=".35"/>
+<circle class="ring" cx="737.0" cy="52" r="20" fill="none" stroke="#2EAD4B" stroke-width="2" style="animation-delay:1.2000000000000002s"/>
+<circle cx="737.0" cy="52" r="20" fill="#2EAD4B" fill-opacity=".12"/>
+<text x="737.0" y="57" text-anchor="middle" font-size="13" font-weight="800" fill="#2EAD4B">IoT</text>
+<text x="767.0" y="57" font-size="14" font-weight="800" letter-spacing="1" fill="#2EAD4B">IoT</text>
+<text x="715.0" y="100" font-size="12" fill="#475569">Menghubungkan perangkat</text><text x="715.0" y="117" font-size="12" fill="#475569">dan data dalam solusi</text><text x="715.0" y="134" font-size="12" fill="#475569">yang terintegrasi.</text>
+<rect x="715.0" y="148" width="20" height="4" rx="2" fill="#2EAD4B"><animate attributeName="width" values="20;165;20" dur="5s" begin="1.5s" repeatCount="indefinite"/></rect>
+</g></svg>
