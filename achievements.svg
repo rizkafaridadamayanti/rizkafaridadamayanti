@@ -15,10 +15,10 @@ text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Ar
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
 <rect x="0.5" y="0.5" width="899" height="155" rx="14" fill="#161B22" stroke="#30363D"/>
-<circle cx="82" cy="78" r="38" fill="#0D1117" stroke="#7D9BD6" stroke-opacity=".7" stroke-width="1.5"/>
-<path d="M82,52 L88.2,67.4 104.8,68.8 92.2,79.6 96,95.8 82,87.2 68,95.8 71.8,79.6 59.2,68.8 75.8,67.4 Z" fill="#7D9BD6" fill-opacity=".9"/>
+<circle cx="82" cy="78" r="38" fill="#0D1117" stroke="#58A6FF" stroke-opacity=".7" stroke-width="1.5"/>
+<path d="M82,52 L88.2,67.4 104.8,68.8 92.2,79.6 96,95.8 82,87.2 68,95.8 71.8,79.6 59.2,68.8 75.8,67.4 Z" fill="#58A6FF" fill-opacity=".9"/>
 <text class="fade" x="146" y="64" font-size="24" font-weight="700" fill="#E6EDF3">Pull Shark</text>
-<g class="fade" style="animation-delay:.15s"><rect x="146" y="76" width="76" height="24" rx="12" fill="#56A27B" fill-opacity=".12" stroke="#56A27B" stroke-opacity=".7"/><text class="m" x="184" y="92" font-size="11.5" fill="#56A27B" text-anchor="middle">TERBUKA</text></g>
+<g class="fade" style="animation-delay:.15s"><rect x="146" y="76" width="76" height="24" rx="12" fill="#3FB950" fill-opacity=".12" stroke="#3FB950" stroke-opacity=".7"/><text class="m" x="184" y="92" font-size="11.5" fill="#3FB950" text-anchor="middle">TERBUKA</text></g>
 <text class="fade" style="animation-delay:.3s" x="146" y="128" font-size="14" fill="#8B949E">Membuka pull request yang berhasil di-merge.</text>
 <circle cx="700" cy="70" r="30" fill="none" stroke="#8B949E" stroke-opacity=".5" stroke-dasharray="4 4"/><text x="700" y="80" font-size="26" font-weight="700" fill="#8B949E" fill-opacity=".6" text-anchor="middle">?</text><text class="m" x="700" y="126" font-size="10" fill="#8B949E" letter-spacing="2" text-anchor="middle">TERKUNCI</text>
 <circle cx="790" cy="70" r="30" fill="none" stroke="#8B949E" stroke-opacity=".5" stroke-dasharray="4 4"/><text x="790" y="80" font-size="26" font-weight="700" fill="#8B949E" fill-opacity=".6" text-anchor="middle">?</text><text class="m" x="790" y="126" font-size="10" fill="#8B949E" letter-spacing="2" text-anchor="middle">TERKUNCI</text>

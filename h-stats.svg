@@ -14,8 +14,8 @@ text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Ar
 @keyframes draw{from{transform:scaleX(0)}to{transform:scaleX(1)}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
-<text class="m" x="4" y="28" font-size="13" fill="#7D9BD6" letter-spacing="1.5">06</text>
+<text class="m" x="4" y="28" font-size="13" fill="#58A6FF" letter-spacing="1.5">06</text>
 <text x="38" y="29" font-size="20" font-weight="650" fill="#E6EDF3">Statistik &amp; Kontribusi</text>
 <rect x="0" y="43" width="900" height="1" fill="#30363D"/>
-<rect class="draw" x="0" y="42" width="56" height="2.5" rx="1.25" fill="#7D9BD6"/>
+<rect class="draw" x="0" y="42" width="56" height="2.5" rx="1.25" fill="#58A6FF"/>
 </svg>

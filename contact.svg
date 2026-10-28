@@ -3,7 +3,7 @@
 <defs><pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#2A313A"/></pattern>
 <linearGradient id="fadeR" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity="1"/></linearGradient>
 <mask id="mR" maskUnits="userSpaceOnUse" x="450" y="0" width="450" height="400"><rect x="450" y="0" width="450" height="400" fill="url(#fadeR)"/></mask>
-<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#7D9BD6" stop-opacity=".13"/><stop offset="1" stop-color="#7D9BD6" stop-opacity="0"/></radialGradient></defs>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#58A6FF" stop-opacity=".13"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/></radialGradient></defs>
 <style>
 text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
 .m{font-family:'SF Mono','JetBrains Mono',Consolas,'Liberation Mono','Courier New',monospace}
@@ -22,12 +22,12 @@ text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Ar
 <circle cx="772" cy="95" r="34" fill="none" stroke="#30363D"/>
 <circle cx="772" cy="95" r="62" fill="none" stroke="#30363D"/>
 <circle cx="772" cy="95" r="90" fill="none" stroke="#30363D"/>
-<circle class="pulse" cx="772" cy="95" r="8" fill="#7D9BD6" fill-opacity=".35"/>
-<circle cx="772" cy="95" r="4" fill="#7D9BD6"/>
+<circle class="pulse" cx="772" cy="95" r="8" fill="#58A6FF" fill-opacity=".35"/>
+<circle cx="772" cy="95" r="4" fill="#58A6FF"/>
 <g class="fade" style="animation-delay:.1s">
 <rect x="48" y="34" width="206" height="28" rx="14" fill="none" stroke="#30363D"/>
-<circle class="pulse" cx="64" cy="48" r="7" fill="#56A27B" fill-opacity=".3"/>
-<circle cx="64" cy="48" r="3.5" fill="#56A27B"/>
+<circle class="pulse" cx="64" cy="48" r="7" fill="#3FB950" fill-opacity=".3"/>
+<circle cx="64" cy="48" r="3.5" fill="#3FB950"/>
 <text x="80" y="53" font-size="12.5" fill="#8B949E">Terbuka untuk kolaborasi</text></g>
 <text class="fade" style="animation-delay:.2s" x="48" y="106" font-size="36" font-weight="700" fill="#E6EDF3" letter-spacing="-0.5">Mari berkolaborasi</text>
 <text class="fade" style="animation-delay:.3s" x="48" y="142" font-size="16" fill="#8B949E">Punya ide atau proyek? Ayo bangun bersama.</text>
