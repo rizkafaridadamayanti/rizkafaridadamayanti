@@ -14,7 +14,7 @@
 
 <img src="./sec-profile.svg" width="100%" alt="Stage 01 - Player Profile"/>
 
-<img src="./player.svg" width="100%" alt="Kartu pemain: Rizka Farida, Frontend Developer, Mahasiswa"/>
+<img src="./player.svg" width="100%" alt="Kartu pemain: Rizka Farida, Full Stack Developer, Mahasiswa"/>
 
 <br/><br/>
 
