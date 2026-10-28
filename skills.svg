@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="376" viewBox="0 0 900 376" role="img" aria-label="Keahlian: Frontend, Backend, Design dan Tools, serta yang sedang dipelajari">
+<title>Keahlian: Frontend, Backend, Design dan Tools, serta yang sedang dipelajari</title>
+<defs></defs>
+<style>
+text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
+.m{font-family:'SF Mono','JetBrains Mono',Consolas,'Liberation Mono','Courier New',monospace}
+.fade{animation:fade .9s ease-out both}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.blink{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.draw{transform-box:fill-box;transform-origin:left center;animation:draw 1s ease-out both}
+@keyframes draw{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="899" height="375" rx="14" fill="#161B22" stroke="#30363D"/>
+<rect x="312" y="36" width="1" height="238" fill="#30363D"/>
+<rect x="600" y="36" width="1" height="238" fill="#30363D"/>
+<g class="fade" style="animation-delay:0.10s"><text class="m" x="48" y="60" font-size="11.5" fill="#7D9BD6" letter-spacing="2">FRONTEND</text><circle cx="52" cy="97" r="2.8" fill="#7D9BD6" fill-opacity=".7"/><text x="66" y="102" font-size="15.5" fill="#E6EDF3">Vue.js</text><rect x="224" y="86" width="48" height="20" rx="10" fill="none" stroke="#7D9BD6" stroke-opacity=".55"/><text class="m" x="248" y="100" font-size="10" fill="#7D9BD6" text-anchor="middle">utama</text><circle cx="52" cy="133" r="2.8" fill="#7D9BD6" fill-opacity=".7"/><text x="66" y="138" font-size="15.5" fill="#E6EDF3">JavaScript</text><circle cx="52" cy="169" r="2.8" fill="#7D9BD6" fill-opacity=".7"/><text x="66" y="174" font-size="15.5" fill="#E6EDF3">TypeScript</text><circle cx="52" cy="205" r="2.8" fill="#7D9BD6" fill-opacity=".7"/><text x="66" y="210" font-size="15.5" fill="#E6EDF3">HTML &amp; CSS</text><circle cx="52" cy="241" r="2.8" fill="#7D9BD6" fill-opacity=".7"/><text x="66" y="246" font-size="15.5" fill="#E6EDF3">Vite</text></g>
+<g class="fade" style="animation-delay:0.28s"><text class="m" x="336" y="60" font-size="11.5" fill="#7D9BD6" letter-spacing="2">BACKEND</text><circle cx="340" cy="97" r="2.8" fill="#7D9BD6" fill-opacity=".7"/><text x="354" y="102" font-size="15.5" fill="#E6EDF3">Laravel</text><rect x="512" y="86" width="48" height="20" rx="10" fill="none" stroke="#7D9BD6" stroke-opacity=".55"/><text class="m" x="536" y="100" font-size="10" fill="#7D9BD6" text-anchor="middle">utama</text><circle cx="340" cy="133" r="2.8" fill="#7D9BD6" fill-opacity=".7"/><text x="354" y="138" font-size="15.5" fill="#E6EDF3">PHP</text><circle cx="340" cy="169" r="2.8" fill="#7D9BD6" fill-opacity=".7"/><text x="354" y="174" font-size="15.5" fill="#E6EDF3">Node.js + Express</text><circle cx="340" cy="205" r="2.8" fill="#7D9BD6" fill-opacity=".7"/><text x="354" y="210" font-size="15.5" fill="#E6EDF3">MySQL</text><circle cx="340" cy="241" r="2.8" fill="#7D9BD6" fill-opacity=".7"/><text x="354" y="246" font-size="15.5" fill="#E6EDF3">Drizzle ORM</text><circle cx="340" cy="277" r="2.8" fill="#7D9BD6" fill-opacity=".7"/><text x="354" y="282" font-size="15.5" fill="#E6EDF3">Docker</text></g>
+<g class="fade" style="animation-delay:0.46s"><text class="m" x="624" y="60" font-size="11.5" fill="#7D9BD6" letter-spacing="2">DESIGN &amp; TOOLS</text><circle cx="628" cy="97" r="2.8" fill="#7D9BD6" fill-opacity=".7"/><text x="642" y="102" font-size="15.5" fill="#E6EDF3">Figma</text><circle cx="628" cy="133" r="2.8" fill="#7D9BD6" fill-opacity=".7"/><text x="642" y="138" font-size="15.5" fill="#E6EDF3">Git</text><circle cx="628" cy="169" r="2.8" fill="#7D9BD6" fill-opacity=".7"/><text x="642" y="174" font-size="15.5" fill="#E6EDF3">GitHub</text><circle cx="628" cy="205" r="2.8" fill="#7D9BD6" fill-opacity=".7"/><text x="642" y="210" font-size="15.5" fill="#E6EDF3">Google AI Studio</text></g>
+<rect x="48" y="304" width="804" height="1" fill="#30363D"/>
+<text class="m" x="48" y="346" font-size="11" fill="#8B949E" letter-spacing="2">SEDANG DIPELAJARI</text>
+<g class="fade" style="animation-delay:0.6s"><rect x="236" y="326" width="56" height="28" rx="14" fill="none" stroke="#8B949E" stroke-opacity=".6" stroke-dasharray="4 3"/><text x="264.0" y="345" font-size="13.5" fill="#C9D1D9" text-anchor="middle">AI</text></g>
+<g class="fade" style="animation-delay:0.7s"><rect x="302" y="326" width="139" height="28" rx="14" fill="none" stroke="#8B949E" stroke-opacity=".6" stroke-dasharray="4 3"/><text x="371.5" y="345" font-size="13.5" fill="#C9D1D9" text-anchor="middle">Analisis Data</text></g>
+<g class="fade" style="animation-delay:0.8s"><rect x="451" y="326" width="56" height="28" rx="14" fill="none" stroke="#8B949E" stroke-opacity=".6" stroke-dasharray="4 3"/><text x="479.0" y="345" font-size="13.5" fill="#C9D1D9" text-anchor="middle">IoT</text></g>
+<g class="fade" style="animation-delay:0.9s"><rect x="517" y="326" width="80" height="28" rx="14" fill="none" stroke="#8B949E" stroke-opacity=".6" stroke-dasharray="4 3"/><text x="557.0" y="345" font-size="13.5" fill="#C9D1D9" text-anchor="middle">Python</text></g>
+</svg>

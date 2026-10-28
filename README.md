@@ -1,114 +1,80 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg">
-  <img alt="Snake animation memakan kotak kontribusi" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg">
-</picture>
-
-<br/>
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=E6EDF3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nama+Kamu+%F0%9F%91%8B;Full-Stack+Developer;Building+clean%2C+scalable+products;Open+to+new+opportunities" alt="Typing SVG" />
-</a>
-
-<br/>
-<br/>
-
-</div>
+<a href="https://rizkafarida.site.je/"><img src="./hero.svg?v=6" width="100%" alt="Rizka Farida - Full Stack Developer"/></a>
 
 <br/>
 
-## About Me
+<a href="https://rizkafarida.site.je/"><img src="https://img.shields.io/badge/Portfolio-21262D?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-21262D?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-21262D?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://api.visitorbadge.io/api/visitors?path=rizkafaridadamayanti%2Frizkafaridadamayanti&label=Visitors&countColor=%237D9BD6&labelColor=%2321262D&style=flat-square" alt="Visitors"/>
 
-Saya seorang full-stack developer yang fokus membangun produk web yang rapi, cepat, dan mudah dirawat.
-Terbiasa bekerja dari desain hingga deployment, dengan perhatian pada kualitas kode dan pengalaman pengguna.
-Saat ini terbuka untuk peluang kerja baru dan kolaborasi proyek menarik.
+<br/><br/>
 
-<br/>
+<!-- 01 · TENTANG SAYA -->
+<img src="./h-about.svg?v=6" width="100%" alt="01 Tentang Saya"/>
+<img src="./about.svg?v=6" width="100%" alt="Rizka Farida, mahasiswa dan Full Stack Developer yang membangun aplikasi web dengan Vue dan Laravel"/>
 
-## Tech Stack
+<br/><br/>
 
-<div align="center">
+<!-- 02 · KEAHLIAN -->
+<img src="./h-skills.svg?v=6" width="100%" alt="02 Keahlian"/>
+<img src="./skills.svg?v=6" width="100%" alt="Keahlian: Frontend, Backend, Design dan Tools, serta yang sedang dipelajari"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-24292e?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-24292e?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-24292e?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-24292e?style=flat-square&logo=go&logoColor=white)
+<br/><br/>
 
-![React](https://img.shields.io/badge/React-24292e?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-24292e?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-24292e?style=flat-square&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-24292e?style=flat-square&logo=tailwindcss&logoColor=white)
+<!-- 03 · BAHASA PEMROGRAMAN -->
+<img src="./h-languages.svg?v=6" width="100%" alt="03 Bahasa Pemrograman"/>
+<img src="./languages.svg?v=6" width="100%" alt="Persentase bahasa: Vue 39,6%, JavaScript 22,4%, TypeScript 16,1%, Blade 16,0%, CSS 5,8%"/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292e?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-24292e?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-24292e?style=flat-square&logo=linux&logoColor=white)
+<br/><br/>
 
-</div>
+<!-- 04 · PROYEK -->
+<img src="./h-projects.svg?v=6" width="100%" alt="04 Proyek"/>
+<img src="./label-main.svg?v=6" width="100%" alt="Proyek utama"/>
 
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark&hide_border=true&background=0d1117&ring=e6edf3&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" alt="GitHub Streak" />
-
-<br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&card_width=500" alt="Top Languages" />
-
-</div>
+<a href="https://github.com/rizkafaridadamayanti/finstart"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rizkafaridadamayanti&repo=finstart&show_owner=false&bg_color=161B22&title_color=7D9BD6&text_color=8B949E&icon_color=7D9BD6&border_color=30363D&border_radius=12" width="32%" alt="FinStart"/></a>
+<a href="https://github.com/rizkafaridadamayanti/nusastay-frontend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rizkafaridadamayanti&repo=nusastay-frontend&show_owner=false&bg_color=161B22&title_color=7D9BD6&text_color=8B949E&icon_color=7D9BD6&border_color=30363D&border_radius=12" width="32%" alt="NusaStay"/></a>
+<a href="https://github.com/rizkafaridadamayanti/wanacafe"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rizkafaridadamayanti&repo=wanacafe&show_owner=false&bg_color=161B22&title_color=7D9BD6&text_color=8B949E&icon_color=7D9BD6&border_color=30363D&border_radius=12" width="32%" alt="WanaCafe"/></a>
 
 <br/>
 
-## Featured Projects
+<img src="./label-side.svg?v=6" width="100%" alt="Proyek sampingan"/>
 
-<div align="center">
+<a href="https://github.com/rizkafaridadamayanti/poc-asa"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rizkafaridadamayanti&repo=poc-asa&show_owner=false&bg_color=161B22&title_color=7D9BD6&text_color=8B949E&icon_color=7D9BD6&border_color=30363D&border_radius=12" width="49%" alt="poc-asa"/></a>
+<a href="https://github.com/rizkafaridadamayanti/produktif-ku"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rizkafaridadamayanti&repo=produktif-ku&show_owner=false&bg_color=161B22&title_color=7D9BD6&text_color=8B949E&icon_color=7D9BD6&border_color=30363D&border_radius=12" width="49%" alt="produktif-ku"/></a>
 
-<a href="https://github.com/USERNAME/REPO-1">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-1&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3" alt="Project 1" />
-</a>
-<a href="https://github.com/USERNAME/REPO-2">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-2&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3" alt="Project 2" />
-</a>
-<a href="https://github.com/USERNAME/REPO-3">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-3&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3" alt="Project 3" />
-</a>
-<a href="https://github.com/USERNAME/REPO-4">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-4&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3" alt="Project 4" />
-</a>
+<br/><br/>
 
-</div>
+<!-- 05 · PENGHARGAAN -->
+<img src="./h-achievements.svg?v=6" width="100%" alt="05 Penghargaan"/>
+<a href="https://github.com/rizkafaridadamayanti?tab=achievements"><img src="./achievements.svg?v=6" width="100%" alt="Penghargaan: Pull Shark terbuka"/></a>
 
-<br/>
+<br/><br/>
 
-## Currently
+<!-- 06 · STATISTIK & KONTRIBUSI -->
+<img src="./h-stats.svg?v=6" width="100%" alt="06 Statistik dan Kontribusi"/>
 
-- Bekerja di **Nama Perusahaan / Proyek** sebagai Full-Stack Developer
-- Sedang mendalami **Go** dan **sistem terdistribusi**
-- Mengerjakan proyek open source: **nama-proyek**
-- Ingin berkolaborasi di bidang **web app, developer tools, dan otomasi**
+<img align="top" src="https://github-stats-extended.vercel.app/api?username=rizkafaridadamayanti&show_icons=true&count_private=true&hide_rank=true&hide=stars,contribs&bg_color=161B22&title_color=7D9BD6&icon_color=7D9BD6&text_color=C9D1D9&border_color=30363D&border_radius=12&card_width=420" width="49%" alt="Statistik GitHub"/>
+<img align="top" src="https://github-readme-streak-stats-eight.vercel.app/?user=rizkafaridadamayanti&background=161B22&border=30363D&border_radius=12&ring=7D9BD6&fire=7D9BD6&currStreakNum=E6EDF3&currStreakLabel=7D9BD6&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E" width="49%" alt="Streak kontribusi"/>
 
-<br/>
+<br/><br/>
 
-## Latest Articles
+<sub>Snake di bawah memakan kotak kontribusi saya, diperbarui otomatis tiap 12 jam.</sub>
 
-<!-- BLOG-POST-LIST:START -->
-- Artikel terbaru akan muncul di sini setelah workflow dijalankan.
-<!-- BLOG-POST-LIST:END -->
+<img alt="Snake game kontribusi" src="https://raw.githubusercontent.com/rizkafaridadamayanti/rizkafaridadamayanti/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
+<img alt="Snake game kontribusi" src="https://raw.githubusercontent.com/rizkafaridadamayanti/rizkafaridadamayanti/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
+
+<br/><br/>
+
+<!-- 07 · KONTAK -->
+<img src="./h-contact.svg?v=6" width="100%" alt="07 Kontak"/>
+<a href="https://rizkafarida.site.je/"><img src="./contact.svg?v=6" width="100%" alt="Mari berkolaborasi"/></a>
 
 <br/>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292e?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-[![Email](https://img.shields.io/badge/Email-24292e?style=flat-square&logo=gmail&logoColor=white)](mailto:email@kamu.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=vercel&logoColor=white)](https://domainmu.dev)
+<a href="https://rizkafarida.site.je/"><img src="https://img.shields.io/badge/Kunjungi%20Portfolio-7D9BD6?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Kunjungi Portfolio"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Hubungi%20via%20Email-21262D?style=for-the-badge&logo=gmail&logoColor=white" alt="Hubungi via Email"/></a>
 
 </div>
