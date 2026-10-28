@@ -1,96 +1,89 @@
 <div align="center">
 
-<a href="https://rizkafarida.site.je/">
-  <img src="./assets/header.svg" alt="Rizka Farida Damayanti - Frontend Developer" width="100%"/>
-</a>
+<a href="https://rizkafarida.site.je/"><img src="./assets/hero.svg" width="100%" alt="Rizka Farida - Frontend Developer"/></a>
 
 <br/>
 
-<a href="https://rizkafarida.site.je/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<a href="https://rizkafarida.site.je/"><img src="https://img.shields.io/badge/Portfolio-8B7BFF?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://api.visitorbadge.io/api/visitors?path=rizkafaridadamayanti%2Frizkafaridadamayanti&label=Pemain&countColor=%2322D3EE&labelColor=%230A0F1F&style=flat-square"/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<br/><br/>
 
-<h3>✨ Tentang Saya</h3>
+<img src="./assets/sec-profile.svg" width="100%" alt="Stage 01 - Player Profile"/>
 
-</div>
+<img src="./assets/player.svg" width="100%" alt="Kartu pemain: Rizka Farida, Frontend Developer, Mahasiswa"/>
 
-<img align="right" width="190" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdqOWZnbmRzdnA4eGJ0ZDRuOXdhMG9lZmthOXlpdGFrNmlhdmI4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RjZM6XvmRBZ30xbcWy/giphy.gif" />
+<br/><br/>
 
-- 💻 **Frontend Developer** yang membangun antarmuka rapi & fungsional
-- 🌐 **Full Stack Enthusiast**, senang menjelajahi sisi backend juga
-- 🤖 Sedang mendalami **AI, Analisis Data, dan IoT**
-- 🛠️ Kerja sehari-hari dengan **Vue** dan **Laravel**
-- 🎨 Mengasah kemampuan desain melalui **Figma**
-- 🤝 Terbuka untuk **kolaborasi proyek**
+<img src="./assets/sec-skills.svg" width="100%" alt="Stage 02 - Skill Tree"/>
+
+<img src="./assets/xp.svg" width="100%" alt="Persentase bahasa: Vue, JavaScript, TypeScript, Blade, CSS"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Frontend%20Developer-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Full%20Stack%20Enthusiast-FF9F1C?style=flat-square" />
-<img src="https://img.shields.io/badge/AI%20Enthusiast-FF6584?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Analyst%20Enthusiast-00B4D8?style=flat-square" />
-<img src="https://img.shields.io/badge/IoT%20Enthusiast-4CAF50?style=flat-square" />
-
-<br clear="right"/>
-
-<div align="center">
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<h3>🛠️ Keahlian Teknis</h3>
-
-<sub><b>Stack utama</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=vue,laravel,js,html,css,php,mysql,vite,express,nodejs,python,figma,git,github&theme=light&perline=7" alt="Tech stack"/>
-
-<br/><br/>
-
-<sub><b>Sedang dijelajahi: AI · Data · IoT</b></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,arduino,raspberrypi&theme=light" alt="Sedang dipelajari"/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<h3>🎯 Fokus Saya</h3>
-
-<img src="./assets/focus.svg" width="100%" alt="Fokus: Frontend, Backend, AI & Data, IoT"/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<h3>🚀 Proyek Pilihan</h3>
-
-<a href="https://github.com/rizkafaridadamayanti/finstart"><img src="./assets/project-finstart.svg" width="32%" alt="FinStart"/></a>
-<a href="https://github.com/rizkafaridadamayanti/nusastay-frontend"><img src="./assets/project-nusastay.svg" width="32%" alt="NusaStay"/></a>
-<a href="https://github.com/rizkafaridadamayanti/wanacafe"><img src="./assets/project-wanacafe.svg" width="32%" alt="WanaCafe"/></a>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<h3>📊 Statistik & Aktivitas</h3>
-
-<img align="top" src="https://github-stats-extended.vercel.app/api?username=rizkafaridadamayanti&show_icons=true&count_private=true&hide_rank=true&hide=stars,contribs&bg_color=FFFFFF&title_color=6C63FF&icon_color=FF9F1C&text_color=475569&border_color=E2E8F0&card_width=420" width="49%"/>
-<img align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rizkafaridadamayanti&layout=donut&bg_color=FFFFFF&title_color=6C63FF&text_color=475569&border_color=E2E8F0&card_width=420" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=rizkafaridadamayanti&hide_border=false&background=FFFFFF&border=E2E8F0&ring=6C63FF&fire=FF9F1C&currStreakNum=334155&currStreakLabel=6C63FF&sideNums=334155&sideLabels=64748B&dates=94A3B8" width="80%"/>
+<img src="./assets/tree.svg" width="100%" alt="Skill tree: Frontend, Backend, Design & Tools, Sedang Dipelajari"/>
 
 <br/>
 
-<sub>Bahasa dihitung dari seluruh repository publik.</sub>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<h3>🐍 Aktivitas Kontribusi</h3>
-
-<img alt="Snake animation" src="https://raw.githubusercontent.com/rizkafaridadamayanti/rizkafaridadamayanti/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
-<img alt="Snake animation" src="https://raw.githubusercontent.com/rizkafaridadamayanti/rizkafaridadamayanti/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
+<img src="https://skillicons.dev/icons?i=vue,laravel,js,ts,html,css,php,mysql,nodejs,express,vite,python,figma,git,github&theme=dark&perline=8" alt="Tech stack"/>
 
 <br/><br/>
 
-<a href="https://github.com/rizkafaridadamayanti?tab=achievements"><img src="https://img.shields.io/badge/Lihat%20Achievements%20GitHub-6C63FF?style=flat-square&logo=github&logoColor=white"/></a>
-<img src="https://api.visitorbadge.io/api/visitors?path=rizkafaridadamayanti%2Frizkafaridadamayanti&label=Pengunjung&countColor=%236C63FF&style=flat-square"/>
+<img src="./assets/sec-quests.svg" width="100%" alt="Stage 03 - Quest Log"/>
 
-<img src="./assets/footer.svg" width="100%" alt="Terima kasih sudah mampir"/>
+<a href="https://github.com/rizkafaridadamayanti/finstart"><img src="./assets/quest-finstart.svg" width="32%" alt="FinStart"/></a>
+<a href="https://github.com/rizkafaridadamayanti/nusastay-frontend"><img src="./assets/quest-nusastay.svg" width="32%" alt="NusaStay"/></a>
+<a href="https://github.com/rizkafaridadamayanti/wanacafe"><img src="./assets/quest-wanacafe.svg" width="32%" alt="WanaCafe"/></a>
+
+<br/>
+
+<a href="https://github.com/rizkafaridadamayanti/poc-asa"><img src="./assets/side-poc-asa.svg" width="49%" alt="poc-asa"/></a>
+<a href="https://github.com/rizkafaridadamayanti/produktif-ku"><img src="./assets/side-produktif-ku.svg" width="49%" alt="produktif-ku"/></a>
+
+<br/><br/>
+
+<img src="./assets/sec-achievements.svg" width="100%" alt="Stage 04 - Achievements"/>
+
+<a href="https://github.com/rizkafaridadamayanti?tab=achievements"><img src="./assets/achievements.svg" width="100%" alt="Achievement log: Pull Shark terbuka"/></a>
+
+<br/><br/>
+
+<img src="./assets/sec-stats.svg" width="100%" alt="Stage 05 - Live Stats"/>
+
+<img align="top" src="https://github-stats-extended.vercel.app/api?username=rizkafaridadamayanti&show_icons=true&count_private=true&hide_rank=true&hide=stars,contribs&bg_color=0A0F1F&title_color=22D3EE&icon_color=FBBF24&text_color=C9D1D9&border_color=26335C&card_width=420" width="49%"/>
+<img align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rizkafaridadamayanti&layout=donut&bg_color=0A0F1F&title_color=22D3EE&text_color=C9D1D9&border_color=26335C&card_width=420" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=rizkafaridadamayanti&background=0A0F1F&border=26335C&ring=22D3EE&fire=FBBF24&currStreakNum=E6EAF7&currStreakLabel=22D3EE&sideNums=E6EAF7&sideLabels=8FA0C8&dates=8FA0C8" width="80%"/>
+
+<br/><br/>
+
+<img src="./assets/sec-games.svg" width="100%" alt="Stage 06 - Mini Games"/>
+
+<img src="./assets/game-runner.svg" width="100%" alt="Game Tech Runner"/>
+
+<br/>
+
+<img src="./assets/game-invaders.svg" width="100%" alt="Game Space Dev"/>
+
+<br/>
+
+<img alt="Snake game kontribusi" src="https://raw.githubusercontent.com/rizkafaridadamayanti/rizkafaridadamayanti/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
+<img alt="Snake game kontribusi" src="https://raw.githubusercontent.com/rizkafaridadamayanti/rizkafaridadamayanti/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
+
+<br/><br/>
+
+<img src="./assets/sec-contact.svg" width="100%" alt="Stage 07 - Continue?"/>
+
+<a href="https://rizkafarida.site.je/"><img src="./assets/contact.svg" width="100%" alt="Mari berkolaborasi"/></a>
+
+<br/>
+
+<a href="https://rizkafarida.site.je/"><img src="https://img.shields.io/badge/Kunjungi%20Portfolio-8B7BFF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Hubungi%20via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
