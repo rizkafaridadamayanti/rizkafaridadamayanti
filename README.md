@@ -28,7 +28,11 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=vue,laravel,js,ts,html,css,php,mysql,nodejs,express,vite,python,figma,git,github&theme=dark&perline=8" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=vue,laravel,js,ts,html,css,php,mysql,nodejs,express,vite,python,figma,git,github,docker&theme=dark&perline=8" alt="Tech stack"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Google%20AI%20Studio-Design-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google AI Studio untuk desain"/>
 
 <br/><br/>
 
