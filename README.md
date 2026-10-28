@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://rizkafarida.site.je/"><img src="./hero.svg?v=4" width="100%" alt="Rizka Farida - Full Stack Developer"/></a>
+<a href="https://rizkafarida.site.je/"><img src="./hero.svg?v=5" width="100%" alt="Rizka Farida - Full Stack Developer"/></a>
 
 <br/>
 
@@ -12,19 +12,19 @@
 
 <br/><br/>
 
-<img src="./sec-profile.svg?v=4" width="100%" alt="Distrik 01 - Profil"/>
+<img src="./sec-profile.svg?v=5" width="100%" alt="Distrik 01 - Profil"/>
 
-<img src="./player.svg?v=4" width="100%" alt="Kartu warga: Rizka Farida, Full Stack Developer, Mahasiswa"/>
+<img src="./player.svg?v=5" width="100%" alt="Kartu warga: Rizka Farida, Full Stack Developer, Mahasiswa"/>
 
 <br/><br/>
 
-<img src="./sec-skills.svg?v=4" width="100%" alt="Distrik 02 - Peta Skill"/>
+<img src="./sec-skills.svg?v=5" width="100%" alt="Distrik 02 - Peta Skill"/>
 
-<img src="./xp.svg?v=4" width="100%" alt="Persentase bahasa: Vue, JavaScript, TypeScript, Blade, CSS"/>
+<img src="./xp.svg?v=5" width="100%" alt="Persentase bahasa: Vue, JavaScript, TypeScript, Blade, CSS"/>
 
 <br/>
 
-<img src="./tree.svg?v=4" width="100%" alt="Peta skill: Frontend, Backend, Design & Tools, Sedang Dipelajari"/>
+<img src="./tree.svg?v=5" width="100%" alt="Peta skill: Frontend, Backend, Design & Tools, Sedang Dipelajari"/>
 
 <br/>
 
@@ -36,26 +36,26 @@
 
 <br/><br/>
 
-<img src="./sec-quests.svg?v=4" width="100%" alt="Distrik 03 - Proyek"/>
+<img src="./sec-quests.svg?v=5" width="100%" alt="Distrik 03 - Proyek"/>
 
-<a href="https://github.com/rizkafaridadamayanti/finstart"><img src="./quest-finstart.svg?v=4" width="32%" alt="FinStart"/></a>
-<a href="https://github.com/rizkafaridadamayanti/nusastay-frontend"><img src="./quest-nusastay.svg?v=4" width="32%" alt="NusaStay"/></a>
-<a href="https://github.com/rizkafaridadamayanti/wanacafe"><img src="./quest-wanacafe.svg?v=4" width="32%" alt="WanaCafe"/></a>
+<a href="https://github.com/rizkafaridadamayanti/finstart"><img src="./quest-finstart.svg?v=5" width="32%" alt="FinStart"/></a>
+<a href="https://github.com/rizkafaridadamayanti/nusastay-frontend"><img src="./quest-nusastay.svg?v=5" width="32%" alt="NusaStay"/></a>
+<a href="https://github.com/rizkafaridadamayanti/wanacafe"><img src="./quest-wanacafe.svg?v=5" width="32%" alt="WanaCafe"/></a>
 
 <br/>
 
-<a href="https://github.com/rizkafaridadamayanti/poc-asa"><img src="./side-poc-asa.svg?v=4" width="49%" alt="poc-asa"/></a>
-<a href="https://github.com/rizkafaridadamayanti/produktif-ku"><img src="./side-produktif-ku.svg?v=4" width="49%" alt="produktif-ku"/></a>
+<a href="https://github.com/rizkafaridadamayanti/poc-asa"><img src="./side-poc-asa.svg?v=5" width="49%" alt="poc-asa"/></a>
+<a href="https://github.com/rizkafaridadamayanti/produktif-ku"><img src="./side-produktif-ku.svg?v=5" width="49%" alt="produktif-ku"/></a>
 
 <br/><br/>
 
-<img src="./sec-achievements.svg?v=4" width="100%" alt="Distrik 04 - Penghargaan"/>
+<img src="./sec-achievements.svg?v=5" width="100%" alt="Distrik 04 - Penghargaan"/>
 
-<a href="https://github.com/rizkafaridadamayanti?tab=achievements"><img src="./achievements.svg?v=4" width="100%" alt="Papan penghargaan: Pull Shark terbuka"/></a>
+<a href="https://github.com/rizkafaridadamayanti?tab=achievements"><img src="./achievements.svg?v=5" width="100%" alt="Papan penghargaan: Pull Shark terbuka"/></a>
 
 <br/><br/>
 
-<img src="./sec-stats.svg?v=4" width="100%" alt="Distrik 05 - Statistik"/>
+<img src="./sec-stats.svg?v=5" width="100%" alt="Distrik 05 - Statistik"/>
 
 <img align="top" src="https://github-stats-extended.vercel.app/api?username=rizkafaridadamayanti&show_icons=true&count_private=true&hide_rank=true&hide=stars,contribs&bg_color=0A0F1F&title_color=22D3EE&icon_color=FBBF24&text_color=C9D1D9&border_color=26335C&card_width=420" width="49%"/>
 <img align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rizkafaridadamayanti&layout=donut&bg_color=0A0F1F&title_color=22D3EE&text_color=C9D1D9&border_color=26335C&card_width=420" width="49%"/>
@@ -66,9 +66,9 @@
 
 <br/><br/>
 
-<img src="./sec-games.svg?v=4" width="100%" alt="Distrik 06 - Kota Kontribusi"/>
+<img src="./sec-games.svg?v=5" width="100%" alt="Distrik 06 - Kota Kontribusi"/>
 
-<img src="./city.svg?v=4" width="100%" alt="Kota kontribusi isometrik"/>
+<img src="./city.svg?v=5" width="100%" alt="Kota kontribusi isometrik"/>
 
 <br/>
 
@@ -77,9 +77,9 @@
 
 <br/><br/>
 
-<img src="./sec-contact.svg?v=4" width="100%" alt="Distrik 07 - Kontak"/>
+<img src="./sec-contact.svg?v=5" width="100%" alt="Distrik 07 - Kontak"/>
 
-<a href="https://rizkafarida.site.je/"><img src="./contact.svg?v=4" width="100%" alt="Mari berkolaborasi"/></a>
+<a href="https://rizkafarida.site.je/"><img src="./contact.svg?v=5" width="100%" alt="Mari berkolaborasi"/></a>
 
 <br/>
 
