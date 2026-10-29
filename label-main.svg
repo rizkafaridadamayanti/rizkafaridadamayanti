@@ -14,5 +14,5 @@ text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Ar
 @keyframes draw{from{transform:scaleX(0)}to{transform:scaleX(1)}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
-<text class="m" x="4" y="20" font-size="11" fill="#8B949E" letter-spacing="2">PROYEK UTAMA</text>
+<text class="m" x="4" y="20" font-size="11" fill="#A39482" letter-spacing="2">PROYEK UTAMA</text>
 </svg>

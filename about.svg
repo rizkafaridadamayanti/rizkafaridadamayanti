@@ -14,17 +14,17 @@ text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Ar
 @keyframes draw{from{transform:scaleX(0)}to{transform:scaleX(1)}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
-<rect x="0.5" y="0.5" width="899" height="243" rx="14" fill="#161B22" stroke="#30363D"/>
-<rect x="524" y="36" width="1" height="172" fill="#30363D"/>
-<text class="fade" x="48" y="82" font-size="22" font-weight="700" fill="#E6EDF3">Halo, saya Rizka Farida.</text>
-<text class="fade" style="animation-delay:0.15s" x="48" y="120" font-size="15.5" fill="#C9D1D9">Mahasiswa dan Full Stack Developer yang</text>
-<text class="fade" style="animation-delay:0.27s" x="48" y="146" font-size="15.5" fill="#C9D1D9">membangun aplikasi web dengan Vue dan Laravel.</text>
-<text class="fade" style="animation-delay:0.39s" x="48" y="172" font-size="15.5" fill="#C9D1D9">Fokus saya pada antarmuka yang bersih, kode</text>
-<text class="fade" style="animation-delay:0.51s" x="48" y="198" font-size="15.5" fill="#C9D1D9">yang rapi, dan proyek yang benar-benar dipakai.</text>
-<text class="m" x="556" y="62" font-size="11" fill="#8B949E" letter-spacing="2">SEKILAS</text>
-<g class="fade" style="animation-delay:0.2s"><text x="556" y="98" font-size="12.5" fill="#8B949E">Peran</text><text x="652" y="98" font-size="14" fill="#E6EDF3">Full Stack Developer</text></g>
-<g class="fade" style="animation-delay:0.3s"><text x="556" y="128" font-size="12.5" fill="#8B949E">Status</text><text x="652" y="128" font-size="14" fill="#E6EDF3">Mahasiswa</text></g>
-<g class="fade" style="animation-delay:0.4s"><text x="556" y="158" font-size="12.5" fill="#8B949E">Stack utama</text><text x="652" y="158" font-size="14" fill="#E6EDF3">Vue.js · Laravel</text></g>
-<g class="fade" style="animation-delay:0.5s"><text x="556" y="188" font-size="12.5" fill="#8B949E">Desain</text><text x="652" y="188" font-size="14" fill="#E6EDF3">Figma · Google AI Studio</text></g>
-<g class="fade" style="animation-delay:0.6s"><text x="556" y="218" font-size="12.5" fill="#8B949E">Kolaborasi</text><text x="652" y="218" font-size="14" fill="#E6EDF3">Terbuka</text></g>
+<rect x="0.5" y="0.5" width="899" height="243" rx="14" fill="#1F1A17" stroke="#3A302A"/>
+<rect x="524" y="36" width="1" height="172" fill="#3A302A"/>
+<text class="fade" x="48" y="82" font-size="22" font-weight="700" fill="#F4EBDD">Halo, saya Rizka Farida.</text>
+<text class="fade" style="animation-delay:0.15s" x="48" y="120" font-size="15.5" fill="#D9CDBD">Mahasiswa dan Full Stack Developer yang</text>
+<text class="fade" style="animation-delay:0.27s" x="48" y="146" font-size="15.5" fill="#D9CDBD">membangun aplikasi web dengan Vue dan Laravel.</text>
+<text class="fade" style="animation-delay:0.39s" x="48" y="172" font-size="15.5" fill="#D9CDBD">Fokus saya pada antarmuka yang bersih, kode</text>
+<text class="fade" style="animation-delay:0.51s" x="48" y="198" font-size="15.5" fill="#D9CDBD">yang rapi, dan proyek yang benar-benar dipakai.</text>
+<text class="m" x="556" y="62" font-size="11" fill="#A39482" letter-spacing="2">SEKILAS</text>
+<g class="fade" style="animation-delay:0.2s"><text x="556" y="98" font-size="12.5" fill="#A39482">Peran</text><text x="652" y="98" font-size="14" fill="#F4EBDD">Full Stack Developer</text></g>
+<g class="fade" style="animation-delay:0.3s"><text x="556" y="128" font-size="12.5" fill="#A39482">Status</text><text x="652" y="128" font-size="14" fill="#F4EBDD">Mahasiswa</text></g>
+<g class="fade" style="animation-delay:0.4s"><text x="556" y="158" font-size="12.5" fill="#A39482">Stack utama</text><text x="652" y="158" font-size="14" fill="#F4EBDD">Vue.js · Laravel</text></g>
+<g class="fade" style="animation-delay:0.5s"><text x="556" y="188" font-size="12.5" fill="#A39482">Desain</text><text x="652" y="188" font-size="14" fill="#F4EBDD">Figma · Google AI Studio</text></g>
+<g class="fade" style="animation-delay:0.6s"><text x="556" y="218" font-size="12.5" fill="#A39482">Kolaborasi</text><text x="652" y="218" font-size="14" fill="#F4EBDD">Terbuka</text></g>
 </svg>
