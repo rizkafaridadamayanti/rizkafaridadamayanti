@@ -5,9 +5,9 @@
 <br/>
 
 <a href="https://rizkafarida.site.je/"><img src="https://img.shields.io/badge/Portfolio-21262D?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>https://www.linkedin.com/in/rizka-farida-1b9109379?utm_source=share_via&utm_content=profile&utm_medium=member_android</a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-21262D?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>https://www.instagram.com/rizkafrdd/</a>
-<a href="#"><img src="https://img.shields.io/badge/Email-21262D?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>rizkafaridadamayantii@gmail.com</a>
+<a href="https://www.linkedin.com/in/rizka-farida-1b9109379?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/rizkafrdd/"><img src="https://img.shields.io/badge/Instagram-21262D?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="rizkafaridadamayantii@gmail.com"><img src="https://img.shields.io/badge/Email-21262D?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://api.visitorbadge.io/api/visitors?path=rizkafaridadamayanti%2Frizkafaridadamayanti&label=Visitors&countColor=%2358A6FF&labelColor=%2321262D&style=flat-square" alt="Visitors"/>
 
 <br/><br/>
