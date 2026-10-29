@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://rizkafarida.site.je/"><img src="./hero.svg?v=9" width="100%" alt="Rizka Farida - Full Stack Developer"/></a>
+<a href="https://rizkafarida.site.je/"><img src="./intro.svg?v=9" width="100%" alt="Rizka Farida - Full Stack Developer"/></a>
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 <!-- 04 · PROYEK -->
 <img src="./tag-proyek.svg?v=9" width="100%" alt="Proyek"/>
-<img src="./label-main.svg?v=9" width="100%" alt="Proyek utama"/>
+<img src="./sub-utama.svg?v=9" width="100%" alt="Proyek utama"/>
 
 <a href="https://github.com/rizkafaridadamayanti/finstart"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rizkafaridadamayanti&repo=finstart&show_owner=false&bg_color=161B22&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&border_color=30363D&border_radius=12" width="32%" alt="FinStart"/></a>
 <a href="https://github.com/rizkafaridadamayanti/nusastay-frontend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rizkafaridadamayanti&repo=nusastay-frontend&show_owner=false&bg_color=161B22&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&border_color=30363D&border_radius=12" width="32%" alt="NusaStay"/></a>
@@ -26,14 +26,14 @@
 
 <br/>
 
-<img src="./label-side.svg?v=9" width="100%" alt="Proyek sampingan"/>
+<img src="./sub-sampingan.svg?v=9" width="100%" alt="Proyek sampingan"/>
 
 <a href="https://github.com/rizkafaridadamayanti/poc-asa"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rizkafaridadamayanti&repo=poc-asa&show_owner=false&bg_color=161B22&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&border_color=30363D&border_radius=12" width="49%" alt="poc-asa"/></a>
 <a href="https://github.com/rizkafaridadamayanti/produktif-ku"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rizkafaridadamayanti&repo=produktif-ku&show_owner=false&bg_color=161B22&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&border_color=30363D&border_radius=12" width="49%" alt="produktif-ku"/></a>
 
 <br/><br/>
 
-<a href="https://github.com/rizkafaridadamayanti?tab=achievements"><img src="./achievements.svg?v=9" width="100%" alt="Penghargaan: Pull Shark terbuka"/></a>
+<a href="https://github.com/rizkafaridadamayanti?tab=achievements"><img src="./penghargaan.svg?v=9" width="100%" alt="Penghargaan: Pull Shark terbuka"/></a>
 
 <br/><br/>
 
@@ -52,7 +52,7 @@
 
 <br/><br/>
 
-<a href="https://rizkafarida.site.je/"><img src="./contact.svg?v=9" width="100%" alt="Mari berkolaborasi"/></a>
+<a href="https://rizkafarida.site.je/"><img src="./kontak.svg?v=9" width="100%" alt="Mari berkolaborasi"/></a>
 
 <br/>
 
