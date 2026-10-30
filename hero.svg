@@ -48,6 +48,6 @@ text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Ar
 <text class="up" style="animation-delay:.2s" x="316" y="146" font-size="58" font-weight="700" fill="#E6EDF3" letter-spacing="-1">Rizka Farida</text>
 <g class="up" style="animation-delay:.3s"><text x="316" y="190" font-size="22"><tspan fill="#58A6FF" font-weight="600">Full Stack Developer</tspan><tspan fill="#8B949E"> · Mahasiswa</tspan></text></g>
 <text class="up" style="animation-delay:.4s" x="316" y="224" font-size="16" fill="#C9D1D9">Membangun aplikasi web dengan Vue &amp; Laravel.</text>
-<g class="up" style="animation-delay:.5s"><text class="m" x="316" y="262" font-size="13" fill="#8B949E"><tspan fill="#E3B341">›</tspan> rizkafarida.site.je</text>
+<g class="up" style="animation-delay:.5s"><text class="m" x="316" y="262" font-size="13" fill="#8B949E"><tspan fill="#E3B341">›</tspan> rizkafarida.vercel.app</text>
 <rect class="growx" style="animation-delay:.9s" x="332" y="270" width="150" height="2" rx="1" fill="#58A6FF" fill-opacity=".6"/></g>
 </svg>
