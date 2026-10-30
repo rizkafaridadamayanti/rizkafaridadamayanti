@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://rizkafarida.site.je/"><img src="./intro.svg?v=9" width="100%" alt="Rizka Farida - Full Stack Developer"/></a>
+<a href="https://rizkafarida.vercel.app/"><img src="./intro.svg?v=9" width="100%" alt="Rizka Farida - Full Stack Developer"/></a>
 
 <br/>
 
